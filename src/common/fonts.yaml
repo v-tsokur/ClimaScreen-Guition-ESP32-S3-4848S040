@@ -1,0 +1,131 @@
+# TEXT FONT
+
+- file: "assets/fonts/Nunito-SemiBold.ttf"
+  id: nunito_16
+  size: 16
+  bpp: 4
+  glyphsets:
+    - GF_Latin_Core
+    - GF_Cyrillic_Core
+
+- file: "assets/fonts/Nunito-SemiBold.ttf"
+  id: nunito_18
+  size: 18
+  bpp: 4
+  glyphsets:
+    - GF_Latin_Core
+    - GF_Cyrillic_Core
+
+- file: "assets/fonts/Nunito-SemiBold.ttf"
+  id: nunito_20
+  size: 20
+  bpp: 4
+  glyphsets:
+    - GF_Latin_Core
+    - GF_Cyrillic_Core
+
+- file: "assets/fonts/Nunito-SemiBold.ttf"
+  id: nunito_30
+  size: 30
+  bpp: 4
+  glyphsets:
+    - GF_Latin_Core
+    - GF_Cyrillic_Core
+
+- file: "assets/fonts/Nunito-SemiBold.ttf"
+  id: nunito_36
+  size: 36
+  bpp: 4
+  glyphsets:
+    - GF_Latin_Core
+    - GF_Cyrillic_Core
+
+- file: "assets/fonts/Nunito-SemiBold.ttf"
+  id: nunito_56
+  size: 56
+  bpp: 4
+  glyphsets:
+    - GF_Latin_Core
+    - GF_Cyrillic_Core
+
+- file: "assets/fonts/Nunito-SemiBold.ttf"
+  id: nunito_84
+  size: 84
+  bpp: 4
+  glyphsets:
+    - GF_Latin_Core
+    - GF_Cyrillic_Core
+
+# CUSTOM ICONS FONT
+
+- file: "assets/fonts/icons_v2.ttf"
+  id: icons_28
+  size: 28
+  bpp: 4
+  glyphs: [
+    "\U0000e938", # humidity
+    "\U0000e939", # temperature
+  ]
+
+- file: "assets/fonts/icons_v2.ttf"
+  id: icons_48
+  size: 48
+  bpp: 4
+  glyphs: [
+    "\U0000e93b", # air conditioner
+    "\U0000e936", # heating
+    "\U0000e938", # humidity
+    "\U0000e939", # temperature
+  ]
+
+# MATERIAL DESIGN ICONS FONT
+
+- file: "assets/fonts/materialdesignicons-webfont.ttf"
+  id: mdi_icons_24
+  size: 24
+  bpp: 4
+  glyphs: [
+    "\U000F032A", # preset eco
+    "\U000F0F9B", # preset away
+    "\U000F14DE", # preset boost
+    "\U000F04B9", # preset comfort
+    "\U000F02DC", # preset home
+    "\U000F0904", # preset sleep
+    "\U000F046E", # preset activity
+    "\U000F0210", # fan on
+    "\U000F081D", # fan off
+    "\U000F171D", # fan auto
+    "\U000F0F86", # fan low
+    "\U000F0F85", # fan medium
+    "\U000F04C5", # fan high
+    "\U000F04FE", # fan focus
+    "\U000F059D", # fan diffuse
+    "\U000F09DF", # fan custom
+    "\U000F1C91", # swing on
+    "\U000F1C92", # swing off
+    "\U000F0041", # swing both
+    "\U000F0E79", # swing vertical
+    "\U000F0E73", # swing horizontal
+  ]
+
+- file: "assets/fonts/materialdesignicons-webfont.ttf"
+  id: mdi_icons_28
+  size: 28
+  bpp: 4
+  glyphs: [
+    "\U000F0238", # heat
+    "\U000F0717", # cool
+    "\U000F1A79", # heat/cool
+    "\U000F0210", # fan
+    "\U000F1B18", # auto
+    "\U000F0425", # off
+  ]
+
+- file: "assets/fonts/materialdesignicons-webfont.ttf"
+  id: mdi_icons_40
+  size: 40
+  bpp: 4
+  glyphs: [
+    "\U000F0415", # plus
+    "\U000F0374", # minus
+  ]
